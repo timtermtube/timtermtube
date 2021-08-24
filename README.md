@@ -1,4 +1,4 @@
-### Hi there 👋
+<a href="https://github.com/Jhyub"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhyub&theme=tokyonight&title_color=fff&text_color=fff&show_icons=true&count_private=true&layout=compact&langs_count=4&count_private=true&hide_border=true"></a>
 
 <!--
 **timtermtube/timtermtube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
