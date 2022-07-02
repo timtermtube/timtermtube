@@ -1,3 +1,5 @@
+Hi there! 👋
+
 <a href="https://github.com/timtermtube"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timtermtube&theme=tokyonight&title_color=fff&text_color=fff&show_icons=true&count_private=true&layout=compact&langs_count=4&count_private=true&hide_border=true"></a>
 
 <!--
